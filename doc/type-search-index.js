@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.henrique.triangle","l":"ApplicationTest"},{"p":"com.henrique.triangle","l":"Bonus"},{"p":"com.henrique.triangle","l":"Triangle"},{"p":"com.henrique.triangle","l":"TriangleBuilder"}]
